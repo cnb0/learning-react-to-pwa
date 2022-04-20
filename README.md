@@ -1,7 +1,7 @@
 # Transform a React app into a PWA
 
-[ReactNative](https://janmonschke.com/react-native-introduction/#/)
-[PWA](https://noti.st/aarongustafson/co3b5z/getting-started-with-progressive-web-apps-workshop)
+- [ReactNative](https://janmonschke.com/react-native-introduction/#/)
+- [PWA](https://noti.st/aarongustafson/co3b5z/getting-started-with-progressive-web-apps-workshop)
 
 
 React and JavaScript Libraries
